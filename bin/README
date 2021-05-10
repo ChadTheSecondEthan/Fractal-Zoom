@@ -1,0 +1,8 @@
+Created by: Ethan Fisher
+
+A way of zooming in on different fractals, such as the Mandelbrot set or the Burning Ship fractal
+
+The Game, GamePanel, and GameStateManager classes were taken from ForeignGuyMike's Java
+2D Platformer Tutorial https://www.youtube.com/watch?v=9dzhgsVaiSo
+
+The JLimitDocument class came from https://www.rgagnon.com/javadetails/java-0198.html
